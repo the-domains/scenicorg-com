@@ -2,12 +2,13 @@ name: scenicorg.com
 favicon: null
 layout_spectrum: 1
 typography_spectrum: 0.39078
+title: 'Scenic Home & Office Organizers'
 cta:
   domain: null
   bucket: null
   version: null
 analytics:
-  google: null
+  google: UA-64900635-1
   facebook: null
   twitter: null
 opengraph:
