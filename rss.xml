@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Scenic Home & Office Organizers]]></title>
         <description><![CDATA[Scenic Home & Office Organizers]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>http://www.scenicorg.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 02 Mar 2016 00:44:31 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 02 Mar 2016 02:31:25 GMT</lastBuildDate>
+        <atom:link href="http://www.scenicorg.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>HOME CONTACT BLOG SHOP POLICIES  MEET YOUR ORGANIZERS    Erik & Charlene Kean are a team of two professional organizers based in Springfield, MO. Our mission is to work with you to design customized, functional home & office organization systems.  Together we will create a stress free environment so you can work efficiently and effectively. We want to help you set your own goals, and be able to reach them! Check our our services page to find out how we can help you.   SUCCESS STORIES      BASEMENT / GARAGE OVERHAUL    KITCHEN MAKEOVER    LIVING ROOM SHUFFLE    LARGE COMMAND CENTER    MEDIUM COMMAND CENTER    SPICE UP YOUR KITCHEN      4002 W. TRACY ST. SPRINGFIELD, MO 65807  E: CONTACT@SCENICORG.COM  P: 573.368.8079</p>]]></description>
+            <link>http://www.scenicorg.com/home-contact-blog-shop-policies-meet-your-organizers-eri/index.html</link>
+            <guid isPermaLink="false">762761e2-38ca-478c-9f88-91463087a126</guid>
+            <pubDate>Wed, 02 Mar 2016 02:31:12 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a8dc9342-b1e9-45a2-81a8-ca6856f83485.png">]]></description>
-            <link>undefined9231828b-150f-47da-9ec0-41d84f866621/index.html</link>
+            <link>http://www.scenicorg.com/9231828b-150f-47da-9ec0-41d84f866621/index.html</link>
             <guid isPermaLink="false">9231828b-150f-47da-9ec0-41d84f866621</guid>
             <pubDate>Wed, 02 Mar 2016 00:44:22 GMT</pubDate>
         </item>
